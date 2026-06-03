@@ -1,16 +1,42 @@
-# React + Vite
+# Future Creators Computing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Professional corporate website developed for Future Creators Computing using React and Vite.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern business website designed to present company services, strategic goals, business ecosystem, and partnerships through a professional and responsive user experience.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Responsive Design
+* Modern User Interface
+* Mobile-Friendly Layout
+* Multi-Page Navigation
+* Reusable React Components
+* Performance Optimized
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* JavaScript
+* Vite
+* CSS3
+
+## Website Sections
+
+* Who We Are
+* Real Experience
+* North Star
+* Goals
+* Strategic Partners
+* Contact Us
+
+## Live Demo
+
+Add your deployed website URL here
+
+## Author
+
+Youssef Waleed Mokhtar
+
+Full Stack JavaScript Developer
